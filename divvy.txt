@@ -1,1 +1,4 @@
+This is the source of the data used for my Cyclistic Bikeshare analysis. I used just the 4 most recent quarters.
+Please note that these datasets have some legal use restrictions.
+
 https://divvy-tripdata.s3.amazonaws.com/index.html
